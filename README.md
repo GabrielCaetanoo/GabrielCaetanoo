@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate front end developer from Brazil</h3>
 
 - 💬 Ask me about **JavaScript,TypeScript**
 
