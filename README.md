@@ -10,6 +10,14 @@
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
   </p>
+  <p>
+    <a href="https://drive.google.com/file/d/14cLg7wnggh1V7uM9n3CcXd1PK-I9dwDH/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/Currículo_(PT)-2E2E2E?style=for-the-badge&logo=google-drive&logoColor=white" alt="Currículo PT">
+    </a>
+    <a href="https://drive.google.com/file/d/1XSWARaNiE7fx94i1BO8dLFNL9QD4mOVL/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/Resume_(EN)-2E2E2E?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume EN">
+    </a>
+  </p>
 </div>
 
 <br />
@@ -23,7 +31,7 @@ My journey involves bridging the gap between ideas and reality through code. I s
 🚀 **Currently:**
 - 🎓 Studying Software Engineering.
 - 💻 Working as a **Freelance Full Stack Developer**.
-- 🧠 deepening my knowledge in **Next.js**, **Software Architecture** and **English**.
+- 🧠 Deepening my knowledge in **Next.js**, **Software Architecture** and **English**.
 
 💡 **Interests:**
 - Web & Mobile Development (React ecosystem is my home ⚛️).
