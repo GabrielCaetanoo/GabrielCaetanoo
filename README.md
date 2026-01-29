@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Gabriel Caetano! 👋</h1>
-  <h3>Software Engineering Student | Full Stack Developer</h3>
+  <h3>Software Engineering Student | Full Stack Developer | AI & LLM Specialist</h3>
 
   <p>
     <a href="https://www.linkedin.com/in/gabriel-caetano-7a454b149/" target="_blank">
@@ -9,14 +9,7 @@
     <a href="mailto:gabrielc0202@hotmail.com">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-  </p>
-  <p>
-    <a href="https://drive.google.com/file/d/14cLg7wnggh1V7uM9n3CcXd1PK-I9dwDH/view?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/badge/Currículo_(PT)-2E2E2E?style=for-the-badge&logo=google-drive&logoColor=white" alt="Currículo PT">
-    </a>
-    <a href="https://drive.google.com/file/d/1XSWARaNiE7fx94i1BO8dLFNL9QD4mOVL/view?usp=sharing" target="_blank">
-      <img src="https://img.shields.io/badge/Resume_(EN)-2E2E2E?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume EN">
-    </a>
+    <img src="https://img.shields.io/badge/Focus-AI_%26_RAG-64FFDA?style=for-the-badge" alt="Focus AI">
   </p>
 </div>
 
@@ -26,47 +19,39 @@
 
 I'm a **23-year-old** developer based in **Maringá, PR**, currently studying **Software Engineering** at Unicesumar. 
 
-My journey involves bridging the gap between ideas and reality through code. I started exploring the world of technology out of curiosity and quickly fell in love with the ability to build solutions that help people.
+My background in the **Finance Sector** gave me a strong analytical mindset, which I now apply to building scalable software and intelligent systems. My goal is to work for global companies while delivering high-impact technological solutions from Brazil.
 
 🚀 **Currently:**
-- 🎓 Studying Software Engineering.
-- 💻 Working as a **Freelance Full Stack Developer**.
-- 🧠 Deepening my knowledge in **Next.js**, **Software Architecture** and **English**.
+- 🎓 **Engineering Student:** Deepening knowledge in Software Architecture at UniCesumar.
+- 🧠 **AI Enthusiast:** Building RAG (Retrieval-Augmented Generation) systems to make LLMs smarter.
+- 💻 **Freelance Developer:** Creating high-performance platforms like **SBR Imóveis**.
 
-💡 **Interests:**
-- Web & Mobile Development (React ecosystem is my home ⚛️).
-- Creating useful tools like my **Salon App** and **StudyHub**.
-- Open source and community learning (DIO, Full Stack Club).
+<br />
+
+## 📈 Impact Metrics (Real-World Results)
+* **SBR Imóveis:** Boosted search performance and filtering by **40%**.
+* **Salon App:** Reduced manual operations by **30%** through AI-driven automation.
+* **Uneagro Portal:** Saved **5h/week** in administrative tasks for the client.
 
 <br />
 
 ## 🛠️ Tech Stack
 
-### 🎨 Front-end
+### 🧠 AI Engineering & Back-end
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+</div>
+
+### 🎨 Front-end & Mobile
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
-</div>
-
-### ⚙️ Back-end & Database
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</div>
-
-### 🧰 Tools & Others
-<div style="display: inline_block">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
 </div>
 
 <br />
@@ -81,5 +66,5 @@ My journey involves bridging the gap between ideas and reality through code. I s
 <br />
 
 <div align="center">
-  <p>Made with 💜 by Gabriel Caetano</p>
+  <p>Building the future of AI-driven applications 🚀</p>
 </div>
