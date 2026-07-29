@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **23-year-old** Full Stack Developer based in **Maringá, PR**, working at **Flugo**, a *figital* startup focused on customer experience — virtual queues, online scheduling, chatbot and indoor media. I'm also finishing my **Software Engineering** degree at Unicesumar.
+I'm a **24-year-old** Full Stack Developer based in **Maringá, PR**, working at **Flugo**, a *figital* startup focused on customer experience — virtual queues, online scheduling, chatbot and indoor media. I'm also finishing my **Software Engineering** degree at Unicesumar.
 
 My background in the **Finance Sector** gave me a strong analytical mindset, which I now apply to building scalable, product-focused software and integrating AI into real products. My long-term goal is to work remotely for global companies while delivering high-impact solutions from Brazil.
 
